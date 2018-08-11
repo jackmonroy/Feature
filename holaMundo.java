@@ -1,6 +1,6 @@
 import java.io.*;
 
-class mi-primer-proyecto
+class holaMundo
 {
 	public static void main(String args[])
 	{
